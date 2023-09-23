@@ -1,4 +1,4 @@
-#impotr math package to use math.pi for the value of PI 
+#import math package to use math.pi for the value of PI 
 #volume = pi*(r)^2*h
 import math
 def cylinder_volume():
